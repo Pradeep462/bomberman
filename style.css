@@ -1,0 +1,29 @@
+.grid-item {
+  height: 30px;
+  width: 39px;
+  background-color: grey;
+  border: 2px solid blue;
+  text-align: center;
+  padding: 5px;
+  font-size: 30px;
+}
+.grid-class {
+  display: flex;
+}
+span {
+  font-size: 30px;
+}
+#header {
+  text-align: center;
+  margin: auto auto auto auto;
+}
+#container {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+
+  background-color: blue;
+}
+#resetButton {
+  margin-bottom: 20px;
+}
